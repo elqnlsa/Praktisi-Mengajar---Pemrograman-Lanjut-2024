@@ -11,10 +11,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author PUTRI ANASTASYA
- */
 public class DessertController {
     private List<Dessert> dessertList;
 
